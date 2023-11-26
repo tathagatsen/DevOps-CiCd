@@ -17,9 +17,9 @@ test("Should subtract two numbers", () => {
 
 // Test Case 3 (Multiplication)
 test("Should multiply two numbers", () => {
-  expect(multiply(25, 10)).toBe(15);
+  expect(multiply(25, 10)).toBe(250);
 });
 // Test Case 4 (Division)
 test("Should divide two numbers", () => {
-  expect(divide(25, 10)).toBe(15);
+  expect(divide(25, 10)).toBe(2.5);
 });
